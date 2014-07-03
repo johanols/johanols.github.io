@@ -1,6 +1,7 @@
 name: jmvo.se
-description: Blogging about stuff
-meta_description: "jmvo.se, Blogging about stuff"
+description: Life is too short to run proprietary software
+meta_description: "jmvo.se, Blogging about stuff. Yeah"
+baseurl: '/'
 
 markdown: redcarpet
 highlighter: pygments
@@ -11,4 +12,5 @@ paginate: 15
 url:            'http://localhost:4000'
 author:         'Johan Olsson'
 
+timezone: Europe/Berlin
 permalink:   /:title/
