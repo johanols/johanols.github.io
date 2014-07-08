@@ -9,7 +9,7 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'http://localhost:4000'
+url:            'http://jmvo.se'
 author:         'Johan Olsson'
 
 timezone: Europe/Berlin
