@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/johanolsson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jmvo.se
+  * I am johanolsson (https://keybase.io/johanolsson) on keybase.
+  * I have a public key ASDpFNYT4RbgG29veLb6UwbWo0shVZ0g6I_13PggHEAvgwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e914d613e116e01b6f6f78b6fa5306d6a34b21559d20e88ff5dcf8201c402f830a",
+            "host": "keybase.io",
+            "kid": "0120e914d613e116e01b6f6f78b6fa5306d6a34b21559d20e88ff5dcf8201c402f830a",
+            "uid": "f5b5abb893dd770bc69512c37bd89d19",
+            "username": "johanolsson"
+        },
+        "service": {
+            "hostname": "jmvo.se",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1474618833,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1474618502,
+        "hash": "4685af65a57a43f6bde5b3999329bec391fb9d289528e1d003f4849445b07d4448713395710c4aa1cf6e165ab20df89e20534fb32ce68d62ff917534d39572df",
+        "seqno": 649856
+    },
+    "prev": "78728efedaff36220dac6b4cf7f5b45e86340be970288f9b33d9397acf1f1323",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6RTWE+EW4Btvb3i2+lMG1qNLIVWdIOiP9dz4IBxAL4MKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTkxNGQ2MTNlMTE2ZTAxYjZmNmY3OGI2ZmE1MzA2ZDZhMzRiMjE1NTlkMjBlODhmZjVkY2Y4MjAxYzQwMmY4MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTkxNGQ2MTNlMTE2ZTAxYjZmNmY3OGI2ZmE1MzA2ZDZhMzRiMjE1NTlkMjBlODhmZjVkY2Y4MjAxYzQwMmY4MzBhIiwidWlkIjoiZjViNWFiYjg5M2RkNzcwYmM2OTUxMmMzN2JkODlkMTkiLCJ1c2VybmFtZSI6ImpvaGFub2xzc29uIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqbXZvLnNlIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNSJ9LCJjdGltZSI6MTQ3NDYxODgzMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc0NjE4NTAyLCJoYXNoIjoiNDY4NWFmNjVhNTdhNDNmNmJkZTViMzk5OTMyOWJlYzM5MWZiOWQyODk1MjhlMWQwMDNmNDg0OTQ0NWIwN2Q0NDQ4NzEzMzk1NzEwYzRhYTFjZjZlMTY1YWIyMGRmODllMjA1MzRmYjMyY2U2OGQ2MmZmOTE3NTM0ZDM5NTcyZGYiLCJzZXFubyI6NjQ5ODU2fSwicHJldiI6Ijc4NzI4ZWZlZGFmZjM2MjIwZGFjNmI0Y2Y3ZjViNDVlODYzNDBiZTk3MDI4OGY5YjMzZDkzOTdhY2YxZjEzMjMiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEASyd0jzFt4co4eKBu+6XIvFxdiIhmSNHu1/T/TY/RrAWRfukImuCxylfBxWZiH4xReTURkkQ5BkgPWWv5Tt/8FqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johanolsson
+
+==================================================================
